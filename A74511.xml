@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for better amending and keeping in repair the common high-waies within this nation. Fryday March 31. 1654. Ordered by His Highness the Lord Protector, and his Council, that this ordinance be forthwith printed and published. Henry Scobell Clerk of the Council.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74511</idno>
+            <idno type="STC">Thomason E1063_26</idno>
+            <idno type="STC">ESTC R209578</idno>
+            <idno type="EEBO-CITATION">99868446</idno>
+            <idno type="PROQUEST">99868446</idno>
+            <idno type="VID">169192</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74511)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169192)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1063[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for better amending and keeping in repair the common high-waies within this nation. Fryday March 31. 1654. Ordered by His Highness the Lord Protector, and his Council, that this ordinance be forthwith printed and published. Henry Scobell Clerk of the Council.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>[2], 201-217, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William du-Gard and Henry Hills, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roads --  Great Britain --  Maintenance and repair --  Early works to 1800.</term>
+               <term>Highway law --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169192:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE FOR Better Amending AND Keeping in Repair THE COMMON HIGH-WAIES WITHIN THIS NATION.</p>
+            <figure>
+               <figDesc>depiction of the state arms of the Commonwealth (1649-60) consisting of the cross of St. George (patron saint of England) and the Irish harp</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Fryday March 31. 1654.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by His Highneſs the Lord Protector, and his Council, That this Ordinance be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>HENRY SCOBELL Clerk of the Council</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169192:2"/>
+            <pb n="201" facs="tcp:169192:2"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of the state arms of the Commonwealth (1649-60) consisting of the cross of St. George (patron saint of England) and the Irish harp</figDesc>
+               </figure>
+            </head>
+            <head>AN ORDINANCE For better amending and keeping in repair THE Common High-Waies within this NATION.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the ſeueral Statutes now in force for mending High-waies are found by experience not to haue produ<g ref="char:EOLhyphen"/>ced ſuch Good Re<g ref="char:EOLhyphen"/>formation as was thereby intended, Therefore, and to the end more effectual Remedies may be pro<g ref="char:EOLhyphen"/>vided,
+<pb n="202" facs="tcp:169192:3"/> Be it ordained by His Highneſs the Lord Protector, by and with the advice and conſent of his Council,
+<list>
+                  <item>I. That in every Pariſh within this Na<g ref="char:EOLhyphen"/>tion of <hi>England</hi> and <hi>Wales,</hi> there be two or more (according to the Greatneſs of the Pariſh) able and ſufficient Hous-houlders in<g ref="char:EOLhyphen"/>habiting in ſuch Pariſh, and ſeverally holding Lands there of the yearly value of twenty pounds or more, in occupation, or ſuch others as ſhall be worth one hundred pounds in per<g ref="char:EOLhyphen"/>ſonal Eſtate, elected and choſen, upon the firſt <hi>Tueſday</hi> next enſuing the five and twentieth day of <hi>March,</hi> yearly, to be Surveyors of the High-waies within their Reſpective Pariſhes for the year enſuing.</item>
+                  <item>II. That if it ſhall fall out that no ſuch Sur<g ref="char:EOLhyphen"/>veyors ſhall be choſen, as aforeſaid, within any ſuch Pariſh, that then in ſuch caſe the Pariſhioners of every ſuch Pariſh ſhall for<g ref="char:EOLhyphen"/>feit twenty pounds to be levyed upon the moſt Subſtantial Inhabitants thereof, who are to have contribution from all the reſt of the Inhabitants of the ſaid Pariſh who are taxable hereby for repair of the ſaid High-waies; and in caſe of difference in rating, the ſame to be ordered and ſettled by the Iuſtices of the Peace of the ſaid Coun<g ref="char:EOLhyphen"/>ty, City or Town Corporate, where ſuch Pariſh lyes, or any two of them; and in ſuch caſe where no ſuch election of Surveyors ſhall be made as aforeſaid, the then Over<g ref="char:EOLhyphen"/>ſeers for the Poor of that Pariſh are hereby appointed to be Surveyors of the ſaid Sur<g ref="char:EOLhyphen"/>veyors
+<pb n="203" facs="tcp:169192:3"/> of the ſaid High-waies within ſuch Pariſh, for the year enſuing.</item>
+                  <item>III. That every Perſon being elected, or hereby appointed to be Surveyors of High-waies, as aforeſaid, ſhall undertake the Office, and ſhall within ten daies after ſuch his Election, or being appointed, as aforeſaid, procure himſelf to be ſworn before ſome Iuſtice of Peace of the County, Riding, City, or Town Corporate, or Limit, within which his Pariſh doth ly, diligently and faith<g ref="char:EOLhyphen"/>fully to execute the office of Surveyor of High-waies within his Pariſh for the year then enſuing, and faithfully to accompt for all moneys which ſhall come to his hands by vertue of his ſaid Office, which oath every Iuſtice of Peace is hereby impowred and authorized to adminiſter, within the Li<g ref="char:EOLhyphen"/>mits of his Commiſſion, accordingly. And if any ſuch perſon ſo elected, or hereby ap<g ref="char:EOLhyphen"/>pointed, ſhall refuſe to accept of his ſaid Office, and to procure himſelf to be ſworn as aforeſaid, that then every perſon ſo failing ſhall forfeit for the ſame the ſum of ten pounds.</item>
+                  <item>IV. That every Surveyor of High waies, ha<g ref="char:EOLhyphen"/>ving accepted the Office, and being Sworn as aforeſaid, ſhall diligently apply himſelf to the duty and Execution of his Office, and ſhall within ten daies after his Oath taken, view all the Common and Publique High-waies and Roads, where Carts and Carri<g ref="char:EOLhyphen"/>ages uſually paſs, and all Common Brid<g ref="char:EOLhyphen"/>ges belonging to the ſaid Pariſh, to repair,
+<pb n="204" facs="tcp:169192:4"/> and all Water-courſes, as alſo all Streets, and pavements, and Common Nuſances in the ſaid Waies and Streets, within their reſpective Pariſhes; And ſhall conſider what Reparations will be needfull to be made, and what ſummes of money will be requiſite and neceſſary to be raiſed within the Pariſh for amending and repairing the ſame, upon pain of forfeiting twenty ſhillings a piece for neglect of ſuch view.</item>
+                  <item>V. That the ſaid Surveyors do, within ſix daies after ſuch view, give publique notice in the Church or Chappel to the Pariſhioners to meet to make an Aſſeſment for repairing the ſaid High-waies &amp; ſtreets, for making &amp; re<g ref="char:EOLhyphen"/>pairing of pavements, and for cleanſing the ſaid Streets and pavements, from time to time, and for what elſe ſhall be requiſite for the purpoſes aforeſaid, and thereupon a Rate or Tax in writing, within three daies after ſuch notice, ſhall be laid by the ſaid Inhabi<g ref="char:EOLhyphen"/>tants preſent at ſuch meeting, or the greater number of them, by a pound Rate, upon all the ſeveral Occupiers of Houſes, Lands, Tythes, Cole mines, fellable Woods, Te<g ref="char:EOLhyphen"/>nements or Hereditaments, within the Pa<g ref="char:EOLhyphen"/>riſh, according to the true yearly value of the ſame, and alſo upon the dead Goods, Com<g ref="char:EOLhyphen"/>modities or Stock in Trade of every parti<g ref="char:EOLhyphen"/>cular Pariſhioner charged to pay to the poor, rating every twenty pounds value of ſuch Goods, equal to every twenty ſhillings Land by year; And ſuch further Rate to be afterward, and oftner made, as occaſion shall require, ſo as all the Rates together do
+<pb n="205" facs="tcp:169192:4"/> not exceed twelve pence in the pound for any one Pariſh in any one year.</item>
+                  <item>VI. That if ſuch Pariſhioners, or the greater number of them, ſhall not agree among them<g ref="char:EOLhyphen"/>ſelves to make ſuch Rate within two daies after ſuch meeting, that then the ſaid Sur<g ref="char:EOLhyphen"/>veyors of High-waies themſelves ſhall make a Rate in writing according to the direction aforeſaid, and ſuch Rate as the ſaid Pari<g ref="char:EOLhyphen"/>ſhioners or Surveyors reſpectively ſhall ſo make, being confirmed by one Iuſtice of peace, ſhall ſtand, until upon complaint and proof of ſome Irregularity or Inequality therein, to the Iuſtices of Peace at the Sesſions, the Bench of Iuſtices, or any two of them then preſent ſhall ſee cauſe to alter the ſame; And if the ſaid Iuſtices ſhall find cauſe to alter it, then the ſaid Rate, with ſuch altera<g ref="char:EOLhyphen"/>tion as they ſhall make, ſhall ſtand without any further Appeal.</item>
+                  <item>VII. That in caſe where Common Nuſances are in High-waies, or where ſuch Common High-waies in any Pariſh are ſtreightned by reaſon of incloſures made within twenty years, either by Hedges, Ditches, Walls, or the like, or where Ditches or Water courſes adjoining upon ſuch High-waies, or which do lead the water from ſuch High-waies are not ſcoured and dreſſed, or where any pavements are defective, or any Nuſances by filth or o<g ref="char:EOLhyphen"/>therwiſe are in any paved Streets, the ſaid Surveyors ſhall ſee that the ſame be reform<g ref="char:EOLhyphen"/>ed, and the Offenders in any of the premiſſes puniſht according to Law, by Information
+<pb n="206" facs="tcp:169192:5"/> or Indictments, deducting for the charge of proſecution out of the monys collected; and the ſaid Pariſhioners or Surveyors of High-waies reſpectively are hereby impowred in ſuch caſe alſo to impoſe and leavy over and above the twelve pence in the pound before<g ref="char:EOLhyphen"/>mentioned, ſuch greater Taxes and Rates upon the Occupiers of thoſe Lands where ſuch Incloſures, or Vndreſt Ditches or Fen<g ref="char:EOLhyphen"/>ces be, as they ſhall reſpectively think fit, ha<g ref="char:EOLhyphen"/>ving the ſame Rates allowed by the Seſſi<g ref="char:EOLhyphen"/>ons of the peace, or the two next Iuſtices of peace, as aforeſaid, which ſhall be final to the parties.</item>
+                  <item>VIII. That if any Pariſhioners rated to the mending of High-waies as aforeſaid, ſhall fail to pay to the ſaid Surveyors of High-waies his proportion of Tax rated upon him, by the ſpace of ſeaven daies after pub<g ref="char:EOLhyphen"/>lique notice and warning given for payment thereof, That then every ſuch Pari<g ref="char:EOLhyphen"/>ſhioner failing shall pay double as much as he is rated at in the Tax.</item>
+                  <item>IX. That for more effectual mending the ſaid High-waies, and parish-Bridges, and Streets, &amp; for removing publique Nuſances out of the ſame, The Surveyors aforementioned shall yearly at ſuch convenient times as they shal agree upon, hire ſuch, and ſo many Labou<g ref="char:EOLhyphen"/>rers and Workmen, and Carts and Carria<g ref="char:EOLhyphen"/>ges, as they shall think needful for mending the ſaid High-waies, parish-Bridges, and Water-courſes, and Streets, and shall cauſe them to be fully and perfeccly mended from
+<pb n="207" facs="tcp:169192:5"/> time to time, and ſuch Workmen and Owners of Carts and Carriages are hereby required to work accordingly, for ſuch reaſonable Wa<g ref="char:EOLhyphen"/>ges, and under ſuch penalty, as any two Iu<g ref="char:EOLhyphen"/>ſtices of peace within the Diviſion shall think fit.</item>
+                  <item>X. That in places where Ditches adjoyning to common High-ways, or ſerving to lead the water from ſuch High-ways, are or ſhall be un<g ref="char:EOLhyphen"/>dreſt or unſcoured, or where water doth run in<g ref="char:EOLhyphen"/>to or ſtand in any ſuch High-ways, to the an<g ref="char:EOLhyphen"/>noyance of it, or where Trees, Buſhes, or Hedges, ſtanding in High-ways, or adjoyning to High ways, are ſuffered to grow up, and to hinder and obſcure it from the power of the Sun for drying thereof, The ſaid Surveyors are hereby impowred in all ſuch reſpective pla<g ref="char:EOLhyphen"/>ces to cauſe ſuch Ditches to be dreſt and ſcour<g ref="char:EOLhyphen"/>ed, and to ſtop and divert any ſuch water-courſe, and to turn the water into any adjoyn<g ref="char:EOLhyphen"/>ing Ditch, or to make new Ditches in conve<g ref="char:EOLhyphen"/>nient places through the Grounds adjoyning, for the moſt convenient conveying ſuch water, as alſo to cut, plaſh, and keep low all ſuch Trees, Buſhes, and Hedges, as they ſhall ſee cauſe.</item>
+                  <item>XI. That the ſaid Surveyors be &amp; are hereby im<g ref="char:EOLhyphen"/>powred further to dig for and get Stones, Gra<g ref="char:EOLhyphen"/>vel, Sand, Sinder, Chalk, or any other materi<g ref="char:EOLhyphen"/>al fit for mending High ways in or upon any the waſt or common Grounds within the Pariſh, or if they cannot there be conveniently had, in and upon any private mans Paſture or fal<g ref="char:EOLhyphen"/>low
+<pb n="208" facs="tcp:169192:6"/> Ground where it may be had, within the Pariſh, or in any other near adjoyning Pariſh, with convenient way for ſending the ſame at ſuch ſeaſonable times, and for ſuch reaſonable ſatisfaction and compoſition to ſuch private perſon as the ſaid Surveyors and Occupiers of ſuch Land ſhall agree upon, and in caſe of diſ<g ref="char:EOLhyphen"/>agreement betwixt them, then for ſuch ſatisfac<g ref="char:EOLhyphen"/>tion as any Iuſtice of Peace near adjoyning, not intereſſed in ſuch Ground, to be indifferent<g ref="char:EOLhyphen"/>ly choſen by the parties, ſhall ſet down and ap<g ref="char:EOLhyphen"/>point, and ſuch Order as the ſaid Iuſtices of Peace ſhall ſet down ſhall be final to the par<g ref="char:EOLhyphen"/>ties, without further appeal.</item>
+                  <item>XII. That in caſe where the ſaid common High-ways and ſtreets are or ſhall be ſo defective, or ſhall extend in ſo great length in any one Pa<g ref="char:EOLhyphen"/>riſh as that the parish is overburdened there<g ref="char:EOLhyphen"/>with, and the Rate of twelve-pence in the pound before mentioned will not ſuffice to a<g ref="char:EOLhyphen"/>mend and repair the ſame, the Iuſtices of Peace, at their open Seſſions, are hereby im<g ref="char:EOLhyphen"/>powred from time to time to rate ſuch other parishes within the Limits of their Commiſ<g ref="char:EOLhyphen"/>ſion, whoſe Rate for mending High-ways ac<g ref="char:EOLhyphen"/>cording to the true yearly value of the Land shall not amount to twelve pence in the pound as aforeſaid, as the ſaid Iuſtice shall think fit, till the Rate amount to twelve-pence in the pound, towards the mending of the High-ways and ſtreets in ſuch parishes as they shall finde to be ſo overburdened.</item>
+                  <pb n="209" facs="tcp:169192:6"/>
+                  <item> XIII. That if any Wagons, Carts, or Carria<g ref="char:EOLhyphen"/>ges, wherein any Burdens of dead Commodi<g ref="char:EOLhyphen"/>ties or Wares shall at any time from and after the firſt day of <hi>M<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y</hi> next be drawn upon any ſuch High-ways, Roads, or ſtreets with above five horſes or Mares, or ſix Oxen and one horſe or Mare, in any one Cart or Wagon, that then it shall be lawfull to or for any Conſtable or Surveyor of High-ways, or other Inhabi<g ref="char:EOLhyphen"/>tant in any parish where ſuch loaden Wagon, Cart, or Carriage shall paſs, and be drawn as aforeſaid, to diſtrain and ſeize all ſuch ſu<g ref="char:EOLhyphen"/>pernumerary horſes, Mares, or Oxen, as he shall finde in any ſuch Wagon, Cart, or Carriage, over and above the number of five horſes or Mares, or ſix Oxen and one horſe or Mare reſpectively, &amp; the ſame ſupernumerary Horſes, Oxen and Mares reſpectively, to detain and keep until ſuch Owner or Driver have paid and anſwered into the hands of the ſurveyors of High-waies within the pa<g ref="char:EOLhyphen"/>riſh where ſuch Diſtreſſe and ſeizure shall be made, or one of them, the ſum of twenty shillings for every ſuch ſupernumerary Horſe Mare, or Ox; And if ſuch penalty be not paid within ſeven daies after ſuch Diſtreſs or ſeizure, together with full ſatisfaction for
+<pb n="210" facs="tcp:169192:7"/> keeping the Beaſts and Cattle diſtrained, and other Charges thereabouts in the mean time, that then it shall be lawful for ſuch ſurvey<g ref="char:EOLhyphen"/>ors of High waies to ſell ſuch Horſes, Mares, or Oxen ſo ſeized, and to retain out of the price the ſaid twenty shillings and char<g ref="char:EOLhyphen"/>ges, returning the overplus to the partie. And in caſe any difference happen about the ſame, the Next Iuſtice of Peace shall deter<g ref="char:EOLhyphen"/>mine the ſame, whoſe Order therein shal be final to each partie.</item>
+                  <item>XIV. That the Iuſtices of peace at their open ſeſſions shall be, and are hereby enable and enjoined, to enquire after, hear, and deter<g ref="char:EOLhyphen"/>mine all Matters concerning any Charita<g ref="char:EOLhyphen"/>ble Gifts, for the making, amending, and keeping in repair any Common High waies, pavements, ſtreets, cauſeys, or Bridges, within the Limits of their Commiſſion, as well where ſpecial Viſitors and Overſeers are appointed, as otherwiſe, and make Or<g ref="char:EOLhyphen"/>ders and Decrees for the due imployment of ſuch Charitable Gifts according to the true intent of the Donors thereof.
+<pb n="211" facs="tcp:169192:7"/> as fully as any Commiſſioners for Charita<g ref="char:EOLhyphen"/>ble uſes may do; and in caſe they ſhall finde any wilful neglect or miſimployment in any perſon or perſons, bodie politick or cor<g ref="char:EOLhyphen"/>porate, in or concerning the ſame, the ſaid Iuſtices ſhall and may over and above the ordering and decreeing what ſhall bee due and in arrear, with damage for not imploy<g ref="char:EOLhyphen"/>ing the ſaid charitable gift according to the true intent thereof, impoſe a Fine, not ex<g ref="char:EOLhyphen"/>ceeding fourtie pounds, upon ſuch as ſhall bee found offendors therein; which Fine, in caſe of refuſal to bee paid within fourtie daies of the demand made by Warrant from the Iuſtices, or any two of them, ſhall bee Levied by Warrant from the ſaid Iuſtices, by Diſtreſs and Sale of the offenders goods, and being Levied, ſhall by the care of the ſaid Iuſtices bee imployed for the mending and repairing the ſaid Highwayes, Pave<g ref="char:EOLhyphen"/>ments, Streets, Bridges, or Cauſies reſpe<g ref="char:EOLhyphen"/>ctively; And ſuch order as the ſaid Iuſtices ſhall make in the premiſſes, ſhall bee final without further appeal.</item>
+                  <item>XV. That Streets and Pavements in any Citie, Town-Corporate, or the Suburbs thereof, or near adjoyning to the ſame, are hereby declared to bee Common Highwayes, and Scavengers to bee Surveyors, within the intent and conſtruction of this Ordi<g ref="char:EOLhyphen"/>nance, and within all Laws in force concer<g ref="char:EOLhyphen"/>ning Highwayes, and in every Pariſh and
+<pb n="212" facs="tcp:169192:8"/> place where Pavements and Streets are, they ſhall bee Paved and kept in good repair, and cleanſed for the conveniencie and health of the Inhabitants; And where any of the Proviſions afore-mentioned, or any other Laws now in force concerning Highwayes, Streets or Pavements, ſhall not bee found ſufficient to reform the great defects of Pavements and Water-courſes, and in re<g ref="char:EOLhyphen"/>moving of filth and other nuſances in ſuch Streets and places; it ſhall and may bee lawful to and for the Inhabitants of any ſuch Pariſh rated to the poor, to meet toge<g ref="char:EOLhyphen"/>ther at the time hereby appointed, for choice of Surveyors, or Scavengers; at which time, or as often as the ſaid Inhabitants ſhall pleaſ, they ſhall ſet down and make ſuch reaſonable by-laws and orders, for the rating and taxing the ſeveral Inhabi<g ref="char:EOLhyphen"/>tants of the ſaid Pariſh, being occupiers of any Houſes, Lands, Tenements, or Here<g ref="char:EOLhyphen"/>ditaments, or having any Stock or Trade or otherwiſe, being of ſufficient abilitie for reforming the defects in Paving and clean<g ref="char:EOLhyphen"/>ſing the Streets, and cauſing the Channels and Water-courſes to run freely, and for keeping the ſame in good order, and for aſ<g ref="char:EOLhyphen"/>ſeſſing and impoſing reaſonable penalties upon offendors, and for Levying of the ſaid ſeveral ſums by Warrant of any Iuſtice of Peace, within the limits of his Commiſſion, by diſtreſs and ſale of the offendors goods, and for imploying the ſame, and reforming the neglect of Scavengers and Inhabi<g ref="char:EOLhyphen"/>tants in any the premiſſes, as they ſhall think fit; which Orders ſo make, being pre<g ref="char:EOLhyphen"/>ſented
+<pb n="213" facs="tcp:169192:8"/> unto, and allowed, or altered by the Iuſtices of Peace at their open Seſſions, ſhall bee duly obſerved and put in execution, according to the allowance or alteration of the ſaid Iuſtices of Peace, and bee final to all parties.</item>
+                  <item>XVI. That all ſums of money Aſſeſſed and Rated as aforeſaid, and all fines, penal<g ref="char:EOLhyphen"/>ties, forfeiture, and other ſums of money ariſing by Aſſeſment or otherwiſe, by this Ordinance, or by any other Law now in force, touching Highwayes and Streets, and all Iſſues to bee forfeited for not ap<g ref="char:EOLhyphen"/>pearing to any Information or Indict<g ref="char:EOLhyphen"/>ment, for not repairing any Highwayes, or not remooving or reforming defects and Nuſances in any Streets or Highwayes; And all Fines or Amercements, to bee im<g ref="char:EOLhyphen"/>poſed upon any Pariſh or private perſon, for not repairing Highwayes, Streets or Water-courſes, ſhall bee imployed and be<g ref="char:EOLhyphen"/>ſtowed by the ſaid Surveyors of Highways, in paying Workmen's Wages for doing ſuch works, and for ſuch other imployment as are hereby appointed to bee don and per<g ref="char:EOLhyphen"/>formed, and ſhall be Levied by virtue of this Ordinance by the ſaid Surveyors of Highwayes, or any of them, by Warrant from any Iuſtice of Peace within the Coun<g ref="char:EOLhyphen"/>tie, Riding, Citie, Town-Corporate, or limit of his Commiſſion, by Diſtreſs and Sale of the goods of ſuch perſon as ſhall bee ſo behinde, or chargeable with any ſuch ſum;
+<pb n="214" facs="tcp:169192:9"/> and for default of ſuch diſtreſs or non-pay<g ref="char:EOLhyphen"/>ment of the money by the ſpace of ten days after demand thereof made or left at his houſ in Writeing under the hand of the ſaid Surveyors, or either of them, the partie ſo in arrear, ſhall bee by Warrant from any Iuſtice of Peace within the ſaid Diviſion, committed to priſon to the Common-Goal of the Countie, there to remain without Bail or Mainpriſe, till hee have paid double what ſhall bee ſo in arrear, and charged upon him to pay, together with the charges incurred to parties proſecuting by ſuch default.</item>
+                  <item>XVII. That if any ſuit ſhall bee commenſed by any perſon againſt any Conſtable or Sur<g ref="char:EOLhyphen"/>veyors of Highwayes, or againſt any per<g ref="char:EOLhyphen"/>ſon imployed by them, or any of them, or au<g ref="char:EOLhyphen"/>thorized by this Ordinance, to do or perform, as by this Ordinance is directed, for doing and performing as aforeſaid; that then in every ſuch caſe, the Action ſhall bee laid in the proper County where the fact was don, and not elſwhere; and the Defendant may plead the general Iſſue to it, and give the ſpecial matter in evidence at the Trial, That what was don, was don in purſuance of this Ordinance; and if upon examination it ſhall ſo appear to bee don, then the Iurie ſhall finde for the Defendant: And in ſuch caſe, as alſo if the Plantiff ſhall bee non<g ref="char:EOLhyphen"/>ſuit, or diſcontinue his Action after the De<g ref="char:EOLhyphen"/>fendant hath appeared, the Defendant ſhall have his full coſts, which upon Oath hee
+<pb n="215" facs="tcp:169192:9"/> ſhall make appear to the Iudge before whom the Trial or diſcontinuance is had, hee hath laid out in defence of ſuch ſuit, and alſo ten pounds more, in regard of his un<g ref="char:EOLhyphen"/>juſt trouble and vexation, taxed by the Court, againſt ſuch Plantiff.</item>
+                  <item>XVIII. That every Surveyor elected or hereby appointed as aforeſaid, ſhall yearly within one moneth after the expiration of the year, wherein hee was ſo Surveyor, make &amp; yield up to the Pariſhioners of the Pariſh, a true and perfect account in writing, at ſom pub<g ref="char:EOLhyphen"/>lick meeting to bee appointed by the Pariſh, of all the moneys hee hath received or paid out within his year, for or by reaſon of his ſaid office; namely, of whom, and what re<g ref="char:EOLhyphen"/>ceived, and to whom, and what paid; and if any overplus do remain in his hands, hee ſhall pay the ſame over to the next Survey<g ref="char:EOLhyphen"/>ors then in beeing, for the uſe of the ſaid Pa<g ref="char:EOLhyphen"/>riſh, to bee disburſed in and about the High<g ref="char:EOLhyphen"/>wayes: And if ſuch Surveyors, ſhall refuſe or neglect to make ſuch account or repay<g ref="char:EOLhyphen"/>ment as aforeſaid, that then it ſhall bee law<g ref="char:EOLhyphen"/>ful to and for any Iuſtice of Peace with<g ref="char:EOLhyphen"/>in the Countie, Riding, Citie, Town-Cor<g ref="char:EOLhyphen"/>porate, or limit where the Pariſh lie's, to examin the Account, and upon default found on the Surveyor's part, to commit ſuch Surveyor to the Common-Goal of the Countie, there to remain without Bayl or Mainpriſe, until hee ſhall make ſuch Ac<g ref="char:EOLhyphen"/>count, and payment as aforeſaid, together
+<pb n="216" facs="tcp:169192:10"/> with ſuch ſatisfaction for the damage which the ſaid Pariſhioners have ſuſtained, by rea<g ref="char:EOLhyphen"/>ſon of ſuch neglect, as any ſuch Iuſtice of Peace ſhall adjudg reaſonable; But if the ſaid Iuſtice ſhall finde ſuch Account to bee clear and good, then hee is to allow the ſame, and ſuch Surveyor is not afterwards to bee queſtioned or troubled thereabouts: Provi<g ref="char:EOLhyphen"/>ded always, that this Ordinance, nor any thing therein conteined, ſhall not extend to diſcharge any perſon or perſons, body-poli<g ref="char:EOLhyphen"/>tick or corporate, from repairing or reform<g ref="char:EOLhyphen"/>ing any the defects and abuſes, as aforeſaid, which by any Grant, Tenure, Preſcription, Limitation or Appointment, of any Chari<g ref="char:EOLhyphen"/>table Gifts, they are bound and charged to repair and reform, nor to alter or make void any Law or Cuſtom now in force, or uſed for the inforcing and conſtreining the ſaid perſons and bodies-politick, aforemen<g ref="char:EOLhyphen"/>tioned, to perform and do their duties, in re<g ref="char:EOLhyphen"/>pairing ſuch Highwaies and Bridges as aforeſaid. And it is the true intent and meaning of this Ordinance, that no Sur<g ref="char:EOLhyphen"/>veyors, for amendment of Highwaies, ſhall bee choſen at any other time, or otherwiſe then by this Ordinance is directed. And it is further Ordeined, by the Authority aforeſaid, That no Writ of Certiorari, ſhall iſſue or bee allowed to remove any Information, In<g ref="char:EOLhyphen"/>dictment, Preſentment, or other proceed<g ref="char:EOLhyphen"/>ings, within this Ordinance, or within any Law now in force, concerning Highwayes, Cauſies, or Bridges, except it bee upon ſom queſtion and controverſie, betwixt Countie and Countie.</item>
+               </list>
+            </p>
+            <pb n="217" facs="tcp:169192:10"/>
+            <p>And it is laſtly Ordained, by the Autho<g ref="char:EOLhyphen"/>ritie aforeſaid, That one Act made in the firſt year of the Reign of the late Queen <hi>Mary,</hi> for, and concerning the making, repairing, and amendment of the Common-Highway and Cauſie, in the Counties of <hi>Dorſet</hi> and <hi>Somerſet,</hi> between the Towns of <hi>Shaftsburie</hi> and <hi>Shirborne,</hi> in the ſaid Countie of <hi>Dorſet,</hi> Intituled, <hi>An Act to Repair Shirborn-Cauſie, in the Counties of Dorſet and Somerſet,</hi> from hence<g ref="char:EOLhyphen"/>forth ſhall bee revived and ſtand in force, until the firſt of <hi>September, 1662.</hi>
+            </p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Friday the 31 <hi>March,</hi> 1654.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by His Highneſs the <hi>Lord PROTECTOR</hi> and His Council, that this Ordinance bee forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>HEN. SCOBEL, Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed, by <hi>William Du-Gard,</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector. 1654.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
